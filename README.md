@@ -1,13 +1,12 @@
-# Flying Bear Ghost 5 Usage Experience
+# That one Flying Bear Wiki you were looking around for
 
-As of now I'm an owner of the Flying Bear Ghost 5 3D printer and here I'd like to share all my findings about this printer - based on own experience as well as any resouces found over the Internet.
-
-First of all - my first ever 3D print :tada:
-
-<img src="./images/first_print.jpg" width=600/>
+This repo is created with the sole purpose of becoming your one-stop wiki if you got yourself one of Flying Bear printers.
+I , the OG Cheatos, will give this repo at least an hour of work a week, trying to shape it into a proper wiki worthy your attention.
+Needless to say this is a work in progress.
 
 ## General Information
-
+At this point the only entries we have are for Flying Bear Ghost 5, fill free to expand this list :)
+<!--
 ### Hardware
 
 My copy of this printer is based on the following hardware:
@@ -43,7 +42,7 @@ The pinout of the MKS Robin Nano v1.2 board is presented below in two variants:
 - [Cooling](improvements/Cooling.md)
 - [Custom Marlin](improvements/CustomMarlin.md)
 - [OctoPrint](improvements/Octoprint.md)
-
+-->
 ## Useful resources
 
 - [Flying Bear Ghost Club](https://flyingbearghost.com/en/)
