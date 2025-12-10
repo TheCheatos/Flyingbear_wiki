@@ -1,6 +1,6 @@
 <img width="1280" height="640" alt="Untitled design" src="https://github.com/user-attachments/assets/96615499-3e81-4337-97f6-4f0bd4b745c2" />
 
-# That one Flying Bear Wiki you were looking around for
+# That one Flying Bear Wiki you've been looking for
 This repo is created with the sole purpose of becoming your one-stop wiki if you got yourself one of Flying Bear printers.
 I , the OG Cheatos, will give this repo at least an hour of work a week, trying to shape it into a proper wiki worthy your attention.
 Needless to say this is a work in progress.
