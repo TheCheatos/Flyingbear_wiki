@@ -1,4 +1,3 @@
-<!--
 ### Hardware
 
 My copy of this printer is based on the following hardware:
@@ -34,4 +33,3 @@ The pinout of the MKS Robin Nano v1.2 board is presented below in two variants:
 - [Cooling](improvements/Cooling.md)
 - [Custom Marlin](improvements/CustomMarlin.md)
 - [OctoPrint](improvements/Octoprint.md)
--->
